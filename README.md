@@ -4,6 +4,7 @@ First of the three university projects for computer graphics. Rayracing, 1m/s li
 //TODO: translate project description
 
 Magyar feladatleírás:
+
 Készítsen sugárkövető programot, amely egy szobát és az abban mozgó üveg ellipszoidot jelenít meg mozgó pontszerű fényforrás megvilágítása mellett.
 
 A virtuális világban a fény terjedési sebessége 1 m/s!!! (ezen feltételt mellőző megoldások nem fogadhatók el)
